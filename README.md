@@ -23,7 +23,7 @@ Project is created with:
 To run this project, Place this script in your user home directory, make sure it's executable and replace these variables in the script:
 
 ```
-$ cd ~ && chmod+x gitcreate.sh
+$ cd ~ && chmod +x gitcreate.sh
 ```
 
 ```
