@@ -4,10 +4,10 @@
 
 #Configure your API tocken here
 echo -n "Paste API tocken here: "
-read GH_API_TOKEN
+read -r GH_API_TOKEN
 
 #Set name for the new repository
-NEW_REPO_NAME="Endava1"
+NEW_REPO_NAME="zazz"
 
 #Configure your Github username and email address
 GIT_USER="Svetoslav Petrov"
