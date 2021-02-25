@@ -15,16 +15,18 @@ Project is created with:
 * Shell
 
 ## Prerequisites
-* Your .pub ssh key tied to your Githug account.
+* Your .pub ssh key tied to your Github account.
 * Generated Github Personal Access Token.
 
 
 ## Setup
-To run this project, Place this script in your user home directory, make sure it's executable and replace these variables in the script:
+To run this project, clone this repo, make sure the .sh file is executable
 
 ```
-$ cd ~ && chmod +x gitcreate.sh
+$ cd create-repo/ && chmod +x gitcreate.sh
 ```
+
+And replace these variables in the script:
 
 ```
 VARIABLES
@@ -36,7 +38,6 @@ GIT_EMAIL="YOUR_EMAIL"
 Start with:
 
 ```
-$ cd ~
 $ ./gitcreate.sh
 ```
 
