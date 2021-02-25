@@ -20,7 +20,7 @@ Project is created with:
 
 
 ## Setup
-To run this project, clone this repo, make sure the .sh file is executable
+To run then project, clone this repo and make sure the .sh file is executable
 
 ```
 $ cd create-repo/ && chmod +x gitcreate.sh
