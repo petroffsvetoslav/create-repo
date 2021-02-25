@@ -4,7 +4,7 @@
 
 #Configure your API tocken here
 echo -n "Paste API tocken here: "
-read -r GH_API_TOKEN
+read -r -s GH_API_TOKEN
 
 #Set name for the new repository
 NEW_REPO_NAME="zazz"
