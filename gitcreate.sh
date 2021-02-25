@@ -3,7 +3,7 @@
 #VARIABLES
 
 #Configure your API tocken here
-echo -n "Paste API tocken here: "
+echo -n "Paste API tocken here and hit Enter:"
 read -r -s GH_API_TOKEN
 
 #Set name for the new repository
